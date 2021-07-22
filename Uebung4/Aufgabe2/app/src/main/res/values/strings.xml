@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WanderRouteRoom</string>
+    <string name="add_word">Add route</string>
+    <string name="hint_description">Description...</string>
+    <string name="hint_place">Place...</string>
+    <string name="hint_coordinates">Coordinates...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Route not saved because it is empty.</string>
+    <string name="save_successful">Route has been saved successfully</string>
+</resources>
